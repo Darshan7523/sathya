@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="sath.html" />
+    <Content Include="style444.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
